@@ -1,2 +1,2 @@
-# My-Amazing-Portfolio
-Its fancy
+# Online-Cv
+Let's connect and share ideas.
